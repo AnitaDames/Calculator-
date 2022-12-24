@@ -30,7 +30,7 @@
     5px 5px 15px rgba(0, 0, 0, 0.2);
   background: transparent;
   font-size: 20px;
-  color: white;
+  color: cyan;
   cursor: pointer;
   margin: 10px;
 }
@@ -49,6 +49,10 @@ form .display input {
 }
 
 form input.equal-sign {
-width: 145px;
+  width: 145px;
+}
 
+form input.operator {
+  color: white;
+  
 }
